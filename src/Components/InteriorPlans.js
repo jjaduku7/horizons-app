@@ -56,7 +56,7 @@ function InteriorPlans() {
         <div className="col-md-3">
           <div className="card">
             <img
-              src="../images/executive-board-room.jpg"
+              src="images/executive-board-room.jpg"
               height="175px"
               className="card-img-top"
             />
